@@ -2,5 +2,4 @@
 
 
 # GitHub Action Status Badge
-# GitHub Action Status Badge
 [![CI](https://github.com/kalllak17/comp3104/actions/workflows/ci.yml/badge.svg)](https://github.com/kalllak17/comp3104/actions/workflows/ci.yml)
